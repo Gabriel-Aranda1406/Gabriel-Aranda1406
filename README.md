@@ -48,7 +48,4 @@ Além do Front-End, também tenho conhecimentos em NestJS, NodeJS e MySQL, o que
 
 <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aranda1406&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=5865F2&text_color=B4B2B2&border_color=5865F2&"/>
 
-![snake animation](https://github.com/Gabriel-Aranda1406/Gabriel-Aranda1406/blob/output/github-contribution-grid-snake2.svg)
-
-
 </div>
