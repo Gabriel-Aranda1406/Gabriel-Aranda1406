@@ -9,7 +9,15 @@ Além do Front-End, também tenho conhecimentos em NestJS, NodeJS e MySQL, o que
 
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&pause=1000&color=00E3D6&random=false&width=435&lines=Front-End+Developer;Software+Developer;Web+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=%F0%9F%9A%80+Objetivos;%F0%9F%9A%80+Goals)](https://git.io/typing-svg)
+
+<p>Estou determinado a continuar minha jornada no desenvolvimento web, buscando sempre aprender e evoluir minhas habilidades. Meu objetivo é contribuir para projetos desafiadores que me permitam explorar novas tecnologias e criar soluções inovadoras.
+   
+   Minhas áreas de atuação são:
+</p>
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&color=1EFF5B&random=false&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Front+End+Developer;%F0%9F%96%A5%EF%B8%8F+Software+Developer;%F0%9F%96%A5%EF%B8%8F+Web+Developer)](https://git.io/typing-svg)
 
 
 <div align="left">
