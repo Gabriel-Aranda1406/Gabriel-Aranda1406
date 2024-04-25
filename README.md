@@ -14,7 +14,7 @@ Além do Front-End, também tenho conhecimentos em NestJS, NodeJS e MySQL, o que
 
 <div>
     
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&color=1EFF5B&random=false&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Front+End+Developer;%F0%9F%96%A5%EF%B8%8F+Software+Developer;%F0%9F%96%A5%EF%B8%8F+Web+Developer)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&color=00e3d6&random=false&width=435&lines=%F0%9F%96%A5%EF%B8%8F+Front+End+Developer;%F0%9F%96%A5%EF%B8%8F+Software+Developer;%F0%9F%96%A5%EF%B8%8F+Web+Developer)](https://git.io/typing-svg)
     
 </div>
  
