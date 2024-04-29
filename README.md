@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00e3d6"/>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&color=00e3d6&random=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1+Mundo!+Sou+o+Gabriel;%F0%9F%91%8B+Hello+World!+I'am+Gabriel!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=28&pause=1000&color=00e3d6&random=false&width=435&lines=%F0%9F%91%8B+Ol%C3%A1+Mundo!+Sou+o+Gabriel!;%F0%9F%91%8B+Hello+World!+I'am+Gabriel!)](https://git.io/typing-svg)
   
 <p>
  Sou um apaixonado por tecnologia, com foco especial no desenvolvimento Front-End. Ao longo de 1 ano de estudo contínuo, construí uma sólida base em JavaScript, TypeScript e ReactJS, buscando sempre inovar e criar experiências incríveis na web.
